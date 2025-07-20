@@ -1,7 +1,8 @@
 Simple python based console application to resize images
 
-If you're like me, and have always had a passionate hatred for filling forms, mostly due to the images required to be uploaded not meeting the recipient's minimum / maximum size criteria, 
-then this might be for you. Choose the image you want to upscale or downscale, choose the save path and name, enter target size and you're done
+If you're anything like me, you've probably felt the frustration of uploading images to forms, only to be met with errors about file size limits - too big, too small, never just right. This tool aims to make that a thing of the past.
+
+Simply choose the image you want to resize, set your target file size, pick a save path and filename, and you're done. No more guesswork, no more trial and error.
 
 Required Libraries -
   1. os
