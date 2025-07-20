@@ -8,4 +8,4 @@ Required Libraries -
   2. opencv
   3. tkinter
 
-Note: Python and the required libraries need to be pre-installed
+Note: Python and the required libraries need to be pre-installed. Originally written only for reading and writing to jpeg/png formats
