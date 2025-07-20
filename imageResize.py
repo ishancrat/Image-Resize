@@ -54,7 +54,7 @@ if (choice == 1):
             elif (temp_size < (target - 20)): #maintains range of 50kb from max value
                 quality_factor += 5;
             else:
-                print("photo saved successfully")
+                print("image saved successfully")
                 break
 
 elif (choice == 2):
@@ -73,7 +73,7 @@ elif (choice == 2):
             elif (temp_size > (target + 20)): #maintains range of 50kb from min value
                 scale_factor -= 0.05;
             else:
-                print("photo saved successfully")
+                print("image saved successfully")
                 break
 
 else:
